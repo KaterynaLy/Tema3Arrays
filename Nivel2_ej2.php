@@ -1,10 +1,10 @@
 <?php
 
 $notasAlumnos = array(
-    'Tomi' => array(5, 7, 5, 9, 8),
-    'Angela' => array(9, 6, 7, 8, 9),
-    'Alan' => array(7, 6, 9, 7, 6),
-    'Ana' => array(10, 10, 9, 10, 8),
+    "Tomi" => array(5, 7, 5, 9, 8),
+    "Angela" => array(9, 6, 7, 8, 9),
+    "Alan" => array(7, 6, 9, 7, 6),
+    "Ana" => array(10, 10, 9, 10, 8),
 );
 function mediaAlumno($notas)
 {
